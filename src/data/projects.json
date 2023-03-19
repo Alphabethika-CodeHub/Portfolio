@@ -1,0 +1,114 @@
+[
+  {
+    "title": "S(P)PBE Digital",
+    "description": "Comprehensive digitization of operational activities in each SPBE/SP(P)BE ",
+    "timeline": "2021 August - 2022 December",
+    "src": "../../assets/Sppbe_Digital.png",
+    "as": "Front-End Engineer",
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "tooltip": "The Programming Language"
+      },
+      {
+        "name": "React JS",
+        "tooltip": "Web Library"
+      },
+      {
+        "name": "Tailwind",
+        "tooltip": "CSS Library"
+      },
+      {
+        "name": "AntD",
+        "tooltip": "UI Library"
+      }
+    ],
+    "link": "-"
+  },
+  {
+    "title": "Ajari",
+    "description": "",
+    "timeline": "2021 August - 2022 December",
+    "src": "../../assets/Ajari.png",
+    "as": "Full-Stack Engineer",
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "tooltip": "The Programming Language"
+      },
+      {
+        "name": "Next JS",
+        "tooltip": "Web Library"
+      },
+      {
+        "name": "Tailwind",
+        "tooltip": "CSS Library"
+      },
+      {
+        "name": "AntD",
+        "tooltip": "UI Library"
+      },
+      {
+        "name": "Video SDK",
+        "tooltip": "Third-Party Video Conference"
+      }
+    ],
+    "link": "-"
+  },
+  {
+    "title": "Kelas Pintar",
+    "description": "",
+    "timeline": "2021 August - 2022 December",
+    "src": "../../assets/Kelas_Pintar.png",
+    "as": "Full-Stack Engineer",
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "tooltip": "The Programming Language"
+      },
+      {
+        "name": "React JS",
+        "tooltip": "Web Library"
+      },
+      {
+        "name": "Tailwind",
+        "tooltip": "CSS Library"
+      },
+      {
+        "name": "Nest JS",
+        "tooltip": "Back-End Framework"
+      },
+      {
+        "name": "Jitsi",
+        "tooltip": "Third-Party Video Conferencing and Instant Messaging"
+      }
+    ],
+    "link": "-"
+  },
+  {
+    "title": "Nationaal Werknemer Plan",
+    "description": "",
+    "timeline": "2021 August - 2022 December",
+    "src": "../../assets/NWP.png",
+    "as": "Front-End Engineer",
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "tooltip": "The Programming Language"
+      },
+      {
+        "name": "Next JS",
+        "tooltip": "Web Library"
+      },
+      {
+        "name": "Tailwind",
+        "tooltip": "CSS Library"
+      },
+      {
+        "name": "AntD",
+        "tooltip": "UI Library"
+      }
+    ],
+    "link": "http://nationaalwerknemerplan.nl"
+  }
+]
